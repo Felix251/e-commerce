@@ -117,7 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Logout" xml:space="preserve">
-    <value>Deconnexion</value>
+  <data name="MissingName" xml:space="preserve">
+    <value>Joxel tour bi</value>
+  </data>
+  <data name="MissingPrice" xml:space="preserve">
+    <value>Joxel njek bi</value>
+  </data>
+  <data name="MissingStock" xml:space="preserve">
+    <value>Joxel li dess</value>
+  </data>
+  <data name="PriceNotANumber" xml:space="preserve">
+    <value>Njek bi nombar la wara nek</value>
+  </data>
+  <data name="PriceNotGreaterThanZero" xml:space="preserve">
+    <value>Ndjek bi da wara eup séro (0)</value>
+  </data>
+  <data name="StockNotAnInteger" xml:space="preserve">
+    <value>Xayma li dess dafa wara nek entier</value>
+  </data>
+  <data name="StockNotGreaterThanZero" xml:space="preserve">
+    <value>Xayma li dess dafa wara eup séro (0) </value>
   </data>
 </root>
